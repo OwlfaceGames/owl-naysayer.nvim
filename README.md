@@ -32,18 +32,18 @@ A dark green-blue Neovim colorscheme. It's a port of [Nick Aversano's Emacs them
 ### Using Packer
 
 ```lua
-use { 'RostislavArts/naysayer.nvim' }
+use { 'OwlfaceGames/owl-naysayer.nvim' }
 ```
 
 ### Using Lazy.nvim
 
 ```lua
 {
-  'RostislavArts/naysayer.nvim',
+  'OwlfaceGames/owl-naysayer.nvim',
   priority = 1000,
   lazy = false,
   config = function()
-    vim.cmd.colorscheme('naysayer')
+    vim.cmd.colorscheme('owl-naysayer')
   end,
 }
 ````
@@ -52,7 +52,7 @@ use { 'RostislavArts/naysayer.nvim' }
 
 Inside `init.lua`
 ```lua
-vim.cmd.colorscheme('naysayer')
+vim.cmd.colorscheme('owl-naysayer')
 ```
 
 ## License
