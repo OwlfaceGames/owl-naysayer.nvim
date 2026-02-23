@@ -4,7 +4,7 @@ A fork of a port of a copy of a famous programmers colorscheme (yes we're that m
 
 I love this colorscheme but it has some issues so I forked and fixed them so I can get on with my work.
 
-Shoutout to RostislavArts for the Neovim port it's a great theme just needed some tweaks to suit my need. Check it out [here](https://github.com/RostislavArts/naysayer.nvim).
+Shoutout to RostislavArts for the Neovim port it's a great theme just needed some tweaks to suit my needs. Check it out [here](https://github.com/RostislavArts/naysayer.nvim).
 
 ## whats fixed?
 - Floating windows for plugins like harpoon and trouble.
