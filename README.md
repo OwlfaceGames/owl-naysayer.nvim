@@ -16,6 +16,8 @@ No colours were changed or added that weren't already in the colorscheme. I just
 
 Jon would never be using something that would show a warning because that's for noobs that write bad code. For real though he doesn't use an lsp or anything from what I gather so considering 90% of people using this colorscheme will be, why wouldn't you change it?
 
+Below is the original readme I just change the Installation section to point to me theme in case anyone else wants to use it. But honestly I just did this for me.
+
 # naysayer (original readme).nvim
 
 A dark green-blue Neovim colorscheme. It's a port of [Nick Aversano's Emacs theme](https://github.com/nickav/naysayer-theme.el) for Neovim, best known from Jonathan Blow's compiler livestreams.
