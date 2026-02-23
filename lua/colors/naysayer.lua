@@ -41,7 +41,7 @@ local colors = {
 
 vim.cmd("highlight clear")
 vim.o.background = "dark"
-vim.g.colors_name = "naysayer"
+vim.g.colors_name = "owl-naysayer"
 
 local set = vim.api.nvim_set_hl
 
