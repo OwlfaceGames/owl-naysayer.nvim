@@ -29,8 +29,9 @@ local colors = {
   warning    = "#ffaa00",
   highlight  = "#0b3335",
   line_fg    = "#126367",
-  lualine_fg = "#d0b892",
-  lualine_bg = "#0d4040",
+  lualine_fg = "#d3b58e",
+  lualine_bg = "#12251b",
+  
 
   dimmed_keyword = "#b0b0b0",
   dimmed_function = "#cccccc",
