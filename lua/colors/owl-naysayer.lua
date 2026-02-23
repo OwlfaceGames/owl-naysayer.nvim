@@ -56,6 +56,14 @@ set(0, "ColorColumn",      { bg = colors.highlight })
 set(0, "VertSplit",        { fg = colors.line_fg })
 set(0, "MatchParen",       { bg = colors.selection })
 
+-- Floating windows (Harpoon, Telescope, etc.)
+set(0, "NormalFloat",      { fg = colors.text, bg = colors.background })
+set(0, "FloatBorder",      { fg = colors.line_fg, bg = colors.background })
+
+-- Trouble
+set(0, "TroubleNormal",    { fg = colors.text, bg = colors.background })
+set(0, "TroubleNormalNC",  { fg = colors.text, bg = colors.background })
+
 -- Syntax
 set(0, "Comment",          { fg = colors.comment })
 set(0, "String",           { fg = colors.string })
