@@ -1,6 +1,6 @@
 # owl-naysayer.nvim
 
-A fork of a port of copy of a famous programmers colorscheme (yes we're that many layers deep).
+A fork of a port of a copy of a famous programmers colorscheme (yes we're that many layers deep).
 
 I love this colorscheme but it has some issues so I forked and fixed them so I can get on with my work.
 
